@@ -1,0 +1,143 @@
+IA
+=================================
+Papel (Como o CHATGPT deve ser?)
+Tarefa (O que você quer que ele faça?)
+Objetivo (Qual é o proposito final?)
+Detalhes (quais informações adicionais ajudam a refinar a resposta)
+   * EXEMPLOS * são muito importantes
+
+
+Atue como um especialista em RH. Crie 5 perguntas de entrevista para um cargo de analista de marketing
+digital júnior. O objetivo é avaliar competências técnicas e comportamentais. Use linguagem direta e profissional.
+
+PAPEL:    Atue como um especialista em RH.
+TAREFA:   Crie 5 perguntas de entrevista para um cargo de analista de marketing digital júnior.
+OBJETIVO: O objetivo é avaliar competências técnicas e comportamentais.
+DETALHE:  Use linguagem direta e profissional.
+
+
+Instrução (ou Tarefa): A ação clara e direta que você quer que a IA execute (ex: "Escreva", "Resuma", "Analise", "Traduza").
+
+Contexto: O cenário, a intenção ou as informações de fundo que ajudam a IA a entender a situação (ex: "Estou preparando uma apresentação para diretores executivos de finanças...").
+
+Dados de Entrada (ou Conteúdo): O material específico que a IA deve processar ou consultar para realizar a tarefa (ex: um texto, uma lista de dados, um código ou um e-mail anexado).
+
+Formato de Saída (ou Parâmetros): As regras sobre como a resposta deve ser entregue (ex: "Em até 3 tópicos", "Em tom formal", "Em formato de tabela Markdown", "Com no máximo 150 palavras").
+
+
+COMANDOS
+--> Ajuda a entender o papel da IA  (atue como redator experiente)
+
+INSTRUÇÕES
+--> Genéricas ou assertivas
+    quantidade (quantas dicas, quantas páginas)
+    formato (texto explicativo, artigo, roteiro, resumo, csv, script...)
+    público alvo (iniciantes, avançado, criança de 5 anos)
+    Tom de voz (divertida, formal, profissional)
+    Estilo (linguagem simples, emocional, técnico)
+ 
+CONTEXTO
+-->    
+
+
+prompt iterativo
+===================================
+- fazer em etapas
+Ganhos:
+   mais controle no resultado final
+   evita respostas genéricas
+   ganho tempo
+   profundidade maior
+
+Exemplo:
+Me ajude a criar um artigo sobre hábitos alta performance.
+  Criar um índice com 5 tópicos principais.
+      Desenvolva os tópicos de 1 a 3 com exemplos práticos e linguagem inspiradora.
+           ***REFINADO *** Reescreva   os 3 itens com um tom mais motivacional e adicione ao final uma citação.
+           Reescreva  os 3 itens com um tom mais motivacional mantendo a estrutura dos exemplos e adicione ao final uma citação.
+
+PROMPT EM CADEIA DE PENSAMENTO
+==============================
+força a IA pensar passo a passo
+
+1 Pede para IA resolva passo a passo
+EXEMPLO: Tomar café quente é melhor para a saúde do que tomar café gelado?
+         Explique passo a passo antes de chegar a sua conclusão
+
+2 Tomada de decisão
+EXEMPLO: ***FRACO *** Qual é o melhor software: trello ou asana
+          Lista os critérios mais importantes para escolher um software de gestão de tarefas.
+          Compare o trello e o asana com base nesses critérios. Só depois. indique qual pode
+          ser a melhor opção, justificandi a escolha.
+
+3 Solução de Problemas Lógicos
+EXEMPLO: *** FORMA 1 *** Qual o número que completa a sequencia: 2, 4, 6, ?
+         Observe o padrão da sequencia. Explique o que está acontecendo entre os números.
+         Depois diga qual número completa a sequência
+         2, 4, 6, ?
+
+4 Argumentação estruturada
+EXEMPLO: *** forma 1 *** Vale a pena investir em energia solar?
+         Liste os benefícios e desafios da energia solar. Avalie o custo-benefício em curto, médio
+         e longo prazo. Considere cenários econômicos diferentes. Depois, diga se vale a pena
+         investir e em quais situações.
+
+
+Zero-shot, One-shot e Few-shot Prompting
+----------------------------------------
+ZS: sem exemplos UTILIZADO: em objetivos simples
+    EXEMPLO: Crie uma legenda para uma foto no instagram de uma cafeteria artesanal
+
+OS: com um exemplo
+    EXEMPLO: Legenda: "nada como começar o dia com um café especial feito com carinho"
+             Agora crie outra legenda com estilo semelhante para uma nova publicação
+
+FS: com vários exemplos (consistente ! estrutura definida ! tom definido )
+    EXEMPLO: Exemplo 1:
+             Pergunta: ....
+             Resposta: ....
+
+             Exemplo 2:
+             Pergunta: ....
+             Resposta: ....
+
+             Exemplo 3:
+             Pergunta: ....
+             Resposta: ....
+
+             Agora, me responda: o que é disciplina
+
+Técnica Role play = jogar como | Atuar como
+-------------------------------------------
+- Atribui uma função a IA
+- muda o tipo de resposta (positivamente)
+
+Exemplo Role Play:
+Assuma o papel de [profissão ou perfil].
+Realize a tarefa [x] com o objetivo [y],
+usando [estilo, tom, abordagem]
+
+GANHOS:
+- Aumenta a personalização da resposta
+- IA é forçada a seguir uma linguagem (tom) mais apropriada para a resposta
+- interação e respostas cada vez mais humanas
+
+
+PROMPT DE COMPARAÇÃO E ANÁLISE CRÍTICA
+-------------------------------------------
+- quando você deve utilizar:
+  - comparação de produtos/serviços
+  - análise de pós/contra
+  - avaliação crítica de ideias
+  - apoio para questões racionais
+
+Exemplos:
+
+Compare [opção A] e [Opção B] com base
+nos critérios [1,2,3]. Em seguida, faça
+uma análise crítica e indique qual opção é
+mais adequada para [situação específica]
+
+
+- tomar decisões mais inteligentes no curto espaço de tempo
+combinar role play e x-shot
