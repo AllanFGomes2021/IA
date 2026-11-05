@@ -138,6 +138,75 @@ nos critérios [1,2,3]. Em seguida, faça
 uma análise crítica e indique qual opção é
 mais adequada para [situação específica]
 
-
 - tomar decisões mais inteligentes no curto espaço de tempo
 combinar role play e x-shot
+
+TRADUÇÔES, RESUMOS, REFORMULAÇÃO
+
+- TRADUÇÕES
+1."Traduza esse texto do português para o inglês, com
+tom formal e vocabulário técnico."
+2. "Traduza esse e-mail do inglês para o português
+mantendo uma linguagem profissional e cordial."
+3. Traduza o conteúdo abaixo para o espanhol com tom
+descontraído e informal, como se fosse para uma rede
+social."
+
+- RESUMO
+1 - "Resuma esse artigo em 3 parágrafos para leitores leigo."
+2 - "Crie uma versão condessada desse conteúdo para uma apresentação."
+3 - "Liste os principais aprendizados do teto em formato de tópicos objetivos."
+
+- REFORMULAÇÃO
+1 - "Reescreva esse texto com linguagem mais simples e acessível para iniciantes."
+2 - "Reformule o paragrafo abaixo com um tom mais persuasivo e emocional."
+3 - "Reescreva esse conteúdo em formato de lista com frases curtas e diretas."
+4 - "Adapte esse texto para um público infantil."
+
+
+PRODUTIVIDADE PESSOAL
+---------------------------
+Planejamento semanal/diário
+Organizar tarefas por prioridades
+rotinas: matinal / noturna
+novos hábitos
+equilibro vida pessoal/profissional
+
+Exemplo:
+Crie um planejamento diário para alguém que trabalha home office, com blocos
+tempo para foco, pausas e organização pessoal. Use um formato de tabela com horários
+e sugestões.
+        ***CORRIGIDO:  o meu dia deve iniciar as 5:30 da manhã
+
+CRIAÇÃO DE CONTEÚDOS
+------------------------------------------
+postagens de texto --> instagram, link, x
+roteiro de vídeo
+artigos / blogs
+títulos thumbs
+descrição bio
+email marketing
+
+EXEMPLO:
+  Você é um [profissional X], crie um [tipo de conteúdo]
+  sobre [tema], voltado para [público-alvo],
+  com [objetivo]. Use linguagem [informal, persuasiva, inspiradora, emocional etc,]
+  e estrutura [lista, parágrafo, Storytelling, passo a passo].
+
+Refinar o conteúdo
+1 role play
+        2 few shot
+        3 iterarivo
+NÂO ESQUECER:
+           definir o público alvo
+           objetivo do conteúdo
+           definir plataforma
+  Estilo desejado
+
+  liste 10 ideias de conteúdo para linkedin sobre liderança e inteligência emocional,
+  voltado para gestores de equipe.
+         ***MELHORAR: me fale mais, com exemplos, sobreo item 3
+
+  você é um copywritter. Escreva uma descrição persuasiva para planner digital com foco em organização pessoal  
+  e linguagem amigável.
+
